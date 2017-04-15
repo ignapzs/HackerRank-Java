@@ -6,13 +6,13 @@ public class Solution {
 
 	public static void main(String[] args) {
 
-		Scanner s = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		int n, m;
-		n = s.nextInt();
-		m = s.nextInt();
+		n = scanner.nextInt();
+		m = scanner.nextInt();
 		long[] U = new long[m];
 		for (int c = 0; c < m; c++) {
-			U[c] = s.nextInt();
+			U[c] = scanner.nextInt();
 		}
 		long[][] MAT = new long[n + 1][m];
 		for (int i = 0; i < m; i++) {
@@ -35,6 +35,6 @@ public class Solution {
 			}
 		}
 		System.out.println(MAT[n][m - 1]);
-		s.close();
+		scanner.close();
 	}
 }
