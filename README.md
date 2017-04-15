@@ -2,7 +2,6 @@
 A public repo for HackerRank solutions.
 Contains the following:
 
-#Java
 - Introduction
 	* Welcome to Java!
 	* Java Stdin and Stdout I
@@ -20,6 +19,7 @@ Contains the following:
 
 - Algorithms
 	* Dynamic Programming
-		** The Maximum Subarray
+		* The Maximum Subarray
+		* Coin Change Problem
 	
 	
