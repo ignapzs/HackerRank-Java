@@ -17,5 +17,9 @@ Contains the following:
 	* Java Int to String
 	* Java Date and Time
 	* Java Currency Formatter
+
+- Algorithms
+	* Dynamic Programming
+		** The Maximum Subarray
 	
 	
