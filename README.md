@@ -21,6 +21,7 @@ Contains the following:
 	* Dynamic Programming
 		* The Maximum Subarray
 		* Coin Change Problem
+		* Fibonacci Modified
 		
 	
 	
