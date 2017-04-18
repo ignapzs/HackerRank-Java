@@ -22,6 +22,7 @@ Contains the following:
 		* The Maximum Subarray
 		* Coin Change Problem
 		* Fibonacci Modified
-		
+	* Graph Theory
+		* Breadth First Search: Shortest Reach
 	
 	
