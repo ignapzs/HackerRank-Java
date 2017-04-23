@@ -24,5 +24,6 @@ Contains the following:
 		* Fibonacci Modified
 	* Graph Theory
 		* Breadth First Search: Shortest Reach
+		* Snakes and Ladders: The Quickest Way Up
 	
 	
