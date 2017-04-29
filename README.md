@@ -28,5 +28,6 @@ Contains the following:
 	* Strings
 		* Pangrams
 		* Alternating characters
+		* Funny String
 	
 	
