@@ -27,5 +27,6 @@ Contains the following:
 		* Snakes and Ladders: The Quickest Way Up
 	* Strings
 		* Pangrams
+		* Alternating characters
 	
 	
