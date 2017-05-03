@@ -29,5 +29,7 @@ Contains the following:
 		* Pangrams
 		* Alternating characters
 		* Funny String
+		* Game of Thrones I
+		* The Love-Letter Mystery
 	
 	
