@@ -31,5 +31,9 @@ Contains the following:
 		* Funny String
 		* Game of Thrones I
 		* The Love-Letter Mystery
+
+- Mathematics
+	* Fundamentals
+		* Halloween Party
 	
 	
