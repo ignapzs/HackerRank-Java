@@ -33,6 +33,7 @@ Contains the following:
 		* The Love-Letter Mystery
 	* Implementation
 		* Cut the sticks
+		* Chocolate Feast
 
 - Mathematics
 	* Fundamentals
