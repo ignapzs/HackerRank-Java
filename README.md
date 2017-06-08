@@ -34,6 +34,7 @@ Contains the following:
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
+		* Sherlock and Squares
 
 - Mathematics
 	* Fundamentals
