@@ -31,6 +31,8 @@ Contains the following:
 		* Funny String
 		* Game of Thrones I
 		* The Love-Letter Mystery
+	* Implementation
+		* Cut the sticks
 
 - Mathematics
 	* Fundamentals
