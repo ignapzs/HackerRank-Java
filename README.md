@@ -35,6 +35,7 @@ Contains the following:
 		* Cut the sticks
 		* Chocolate Feast
 		* Sherlock and Squares
+		* Service Lane
 
 - Mathematics
 	* Fundamentals
