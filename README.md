@@ -31,6 +31,7 @@ Contains the following:
 		* Funny String
 		* Game of Thrones I
 		* The Love-Letter Mystery
+		* Caesar Cypher
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
