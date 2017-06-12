@@ -36,6 +36,9 @@ Contains the following:
 		* Chocolate Feast
 		* Sherlock and Squares
 		* Service Lane
+	* Bit Manipulation
+		* Maximizing XOR		
+		
 
 - Mathematics
 	* Fundamentals
