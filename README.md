@@ -37,6 +37,7 @@ Contains the following:
 		* Chocolate Feast
 		* Sherlock and Squares
 		* Service Lane
+		* Extra Long Factorials
 	* Bit Manipulation
 		* Maximizing XOR		
 		
