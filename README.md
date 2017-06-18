@@ -38,6 +38,7 @@ Contains the following:
 		* Sherlock and Squares
 		* Service Lane
 		* Extra Long Factorials
+		* Angry Professor
 	* Bit Manipulation
 		* Maximizing XOR		
 		
