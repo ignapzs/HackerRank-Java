@@ -40,7 +40,9 @@ Contains the following:
 		* Extra Long Factorials
 		* Angry Professor
 	* Bit Manipulation
-		* Maximizing XOR		
+		* Maximizing XOR
+	* Greedy
+		* Sherlock and The Beast	
 		
 
 - Mathematics
