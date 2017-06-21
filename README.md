@@ -39,6 +39,7 @@ Contains the following:
 		* Service Lane
 		* Extra Long Factorials
 		* Angry Professor
+		* Utopian Tree
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
