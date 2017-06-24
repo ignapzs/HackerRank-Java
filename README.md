@@ -40,6 +40,7 @@ Contains the following:
 		* Extra Long Factorials
 		* Angry Professor
 		* Utopian Tree
+		* Beautiful Days at the Movies
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
