@@ -41,6 +41,7 @@ Contains the following:
 		* Angry Professor
 		* Utopian Tree
 		* Beautiful Days at the Movies
+		* Viral Advertising
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
