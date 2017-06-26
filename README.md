@@ -42,6 +42,7 @@ Contains the following:
 		* Utopian Tree
 		* Beautiful Days at the Movies
 		* Viral Advertising
+		* Save the prisoner
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
