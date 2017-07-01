@@ -43,6 +43,8 @@ Contains the following:
 		* Beautiful Days at the Movies
 		* Viral Advertising
 		* Save the prisoner
+		* Jumping on the Clouds: Revisited
+		* Divisible Sum Pairs
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
