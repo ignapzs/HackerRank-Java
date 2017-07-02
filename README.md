@@ -45,6 +45,7 @@ Contains the following:
 		* Save the prisoner
 		* Jumping on the Clouds: Revisited
 		* Divisible Sum Pairs
+		* Bon Appétit
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
