@@ -46,6 +46,7 @@ Contains the following:
 		* Jumping on the Clouds: Revisited
 		* Divisible Sum Pairs
 		* Bon Appétit
+		* Sock Merchant
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
