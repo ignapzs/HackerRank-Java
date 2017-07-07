@@ -47,6 +47,8 @@ Contains the following:
 		* Divisible Sum Pairs
 		* Bon Appétit
 		* Sock Merchant
+		* Drawing Book
+		* Repeated String
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
