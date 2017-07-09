@@ -49,6 +49,7 @@ Contains the following:
 		* Sock Merchant
 		* Drawing Book
 		* Repeated String
+		* Jumping on the clouds
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
