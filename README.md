@@ -50,6 +50,7 @@ Contains the following:
 		* Drawing Book
 		* Repeated String
 		* Jumping on the clouds
+		* Counting Valleys
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
