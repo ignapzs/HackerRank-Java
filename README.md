@@ -51,6 +51,7 @@ Contains the following:
 		* Repeated String
 		* Jumping on the clouds
 		* Counting Valleys
+		* Electronics Shop
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
