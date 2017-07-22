@@ -52,6 +52,8 @@ Contains the following:
 		* Jumping on the clouds
 		* Counting Valleys
 		* Electronics Shop
+		* The Hurdle Race
+		* Forming a Magic Square
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
