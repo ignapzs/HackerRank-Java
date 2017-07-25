@@ -54,6 +54,8 @@ Contains the following:
 		* Electronics Shop
 		* The Hurdle Race
 		* Forming a Magic Square
+		* Designer PDF Viewer
+		* Sequence Equation
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
