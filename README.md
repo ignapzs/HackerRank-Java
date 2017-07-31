@@ -56,6 +56,8 @@ Contains the following:
 		* Forming a Magic Square
 		* Designer PDF Viewer
 		* Sequence Equation
+		* Apple and Orange
+		* Climbing the Leaderboard
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
