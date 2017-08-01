@@ -58,6 +58,7 @@ Contains the following:
 		* Sequence Equation
 		* Apple and Orange
 		* Climbing the Leaderboard
+		* Kangaroo
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
