@@ -59,6 +59,8 @@ Contains the following:
 		* Apple and Orange
 		* Climbing the Leaderboard
 		* Kangaroo
+		* Between Two Sets
+		* Breaking the Records
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
