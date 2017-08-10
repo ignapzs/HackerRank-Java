@@ -61,6 +61,8 @@ Contains the following:
 		* Kangaroo
 		* Between Two Sets
 		* Breaking the Records
+		* Birthday Chocolate
+		* Migratory Birds
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
