@@ -63,6 +63,7 @@ Contains the following:
 		* Breaking the Records
 		* Birthday Chocolate
 		* Migratory Birds
+		* Day of the Programmer
 	* Bit Manipulation
 		* Maximizing XOR
 	* Greedy
