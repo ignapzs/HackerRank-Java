@@ -32,6 +32,7 @@ Contains the following:
 		* Game of Thrones I
 		* The Love-Letter Mystery
 		* Caesar Cypher
+		* Super Reduced String
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
