@@ -33,6 +33,7 @@ Contains the following:
 		* The Love-Letter Mystery
 		* Caesar Cypher
 		* Super Reduced String
+		* CamelCase
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
