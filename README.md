@@ -34,6 +34,8 @@ Contains the following:
 		* Caesar Cypher
 		* Super Reduced String
 		* CamelCase
+		* Two Characters
+		* Mars Exploration
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
