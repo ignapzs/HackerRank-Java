@@ -36,6 +36,7 @@ Contains the following:
 		* CamelCase
 		* Two Characters
 		* Mars Exploration
+		* String Construction
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
