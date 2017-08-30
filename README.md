@@ -37,6 +37,8 @@ Contains the following:
 		* Two Characters
 		* Mars Exploration
 		* String Construction
+		* Sherlock and the Valid String
+		* Palindrome Index
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
