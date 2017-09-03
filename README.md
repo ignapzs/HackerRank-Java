@@ -39,6 +39,8 @@ Contains the following:
 		* String Construction
 		* Sherlock and the Valid String
 		* Palindrome Index
+		* Two Strings
+		* Richie Rich
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
