@@ -41,6 +41,7 @@ Contains the following:
 		* Palindrome Index
 		* Two Strings
 		* Richie Rich
+		* Sherlock and Anagrams
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
