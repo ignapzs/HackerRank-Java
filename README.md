@@ -42,6 +42,7 @@ Contains the following:
 		* Two Strings
 		* Richie Rich
 		* Sherlock and Anagrams
+		* Common Child
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
