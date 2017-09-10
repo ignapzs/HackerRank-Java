@@ -43,6 +43,8 @@ Contains the following:
 		* Richie Rich
 		* Sherlock and Anagrams
 		* Common Child
+		* Bear and Steady gene
+		* Morgan and a String
 	* Implementation
 		* Cut the sticks
 		* Chocolate Feast
