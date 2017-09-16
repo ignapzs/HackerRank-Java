@@ -81,7 +81,8 @@ Contains the following:
 		* Maximizing XOR
 	* Greedy
 		* Sherlock and The Beast	
-		
+	* Search
+		* Sherlock and Array	
 
 - Mathematics
 	* Fundamentals
