@@ -82,7 +82,9 @@ Contains the following:
 	* Greedy
 		* Sherlock and The Beast	
 	* Search
-		* Sherlock and Array	
+		* Sherlock and Array
+		* Ice Cream Parlor
+		* Missing Numbers	
 
 - Mathematics
 	* Fundamentals
