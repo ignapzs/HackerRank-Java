@@ -84,7 +84,9 @@ Contains the following:
 	* Search
 		* Sherlock and Array
 		* Ice Cream Parlor
-		* Missing Numbers	
+		* Missing Numbers
+		* Pairs
+		* Connected cell in a grid	
 
 - Mathematics
 	* Fundamentals
