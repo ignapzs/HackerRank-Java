@@ -86,7 +86,8 @@ Contains the following:
 		* Ice Cream Parlor
 		* Missing Numbers
 		* Pairs
-		* Connected cell in a grid	
+		* Connected cell in a grid
+		* Count Luck
 
 - Mathematics
 	* Fundamentals
